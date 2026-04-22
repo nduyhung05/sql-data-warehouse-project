@@ -102,5 +102,6 @@ data-warehouse-project/
 Hello! I'm **Duy Hung**. As a fresh graduate and aspiring **Data Engineer**, I am deeply invested in learning the intricacies of **Data Warehousing**. I'm looking for opportunities to grow and contribute to data-driven projects.
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C6%B0ng-duy-aaa155339/)
 
